@@ -1,0 +1,15 @@
+D:\проекты визуал студио\3 программы\bin\Debug\net6.0\3 программы.exe
+D:\проекты визуал студио\3 программы\bin\Debug\net6.0\3 программы.deps.json
+D:\проекты визуал студио\3 программы\bin\Debug\net6.0\3 программы.runtimeconfig.json
+D:\проекты визуал студио\3 программы\bin\Debug\net6.0\3 программы.dll
+D:\проекты визуал студио\3 программы\bin\Debug\net6.0\3 программы.pdb
+D:\проекты визуал студио\3 программы\obj\Debug\net6.0\3 программы.csproj.AssemblyReference.cache
+D:\проекты визуал студио\3 программы\obj\Debug\net6.0\3 программы.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекты визуал студио\3 программы\obj\Debug\net6.0\3 программы.AssemblyInfoInputs.cache
+D:\проекты визуал студио\3 программы\obj\Debug\net6.0\3 программы.AssemblyInfo.cs
+D:\проекты визуал студио\3 программы\obj\Debug\net6.0\3 программы.csproj.CoreCompileInputs.cache
+D:\проекты визуал студио\3 программы\obj\Debug\net6.0\3 программы.dll
+D:\проекты визуал студио\3 программы\obj\Debug\net6.0\refint\3 программы.dll
+D:\проекты визуал студио\3 программы\obj\Debug\net6.0\3 программы.pdb
+D:\проекты визуал студио\3 программы\obj\Debug\net6.0\3 программы.genruntimeconfig.cache
+D:\проекты визуал студио\3 программы\obj\Debug\net6.0\ref\3 программы.dll
